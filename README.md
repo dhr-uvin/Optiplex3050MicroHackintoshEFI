@@ -9,7 +9,7 @@ SPECS:
 -8GB RAM
 -Intel HD 630
 -Intel AC3165
--Realtek WIFI
+-Realtek Ethernet
 -Audio Codec 3234/255
 
 Heres the folder for my EFIs!:
