@@ -13,10 +13,15 @@ SPECS:
 
 
 What works - 
+
 - WIFI
+
 -Bluetooth
+
 -Handoff,universal clipboard
 
 What doesn't work -
+
 -Sleep , I believe this is a known issue. Just set sleep to never in power saving and your good.
+
 -Multiple continuity features. Airplay server can be done with UXPlay (search it up on github) , continuity camera works when wired.
