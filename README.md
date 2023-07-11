@@ -4,11 +4,17 @@ Hello! This a a dump of my EFIs for my current hackintosh , currently running 14
 SPECS:
 
 - i5-7500T
+
 -256GB SATA SSD
+
 -8GB RAM
+
 -Intel HD 630
+
 -Intel AC3165
+
 -Realtek Ethernet
+
 -Audio Codec 3234/255
 
 
